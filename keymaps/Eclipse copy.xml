@@ -1,0 +1,28 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
+  <action id="ExternalJavaDoc" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="SurroundWithLiveTemplate" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
