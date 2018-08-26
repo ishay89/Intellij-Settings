@@ -1,4 +1,14 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="1" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeUpdateApp="true">
     <option name="elementHighlighting" value="true" />
   </component>
