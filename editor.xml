@@ -1,5 +1,8 @@
 <application>
-  <component name="LiveEditOptions" chromeUpdateApp="true">
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Monospaced" />
+  </component>
+  <component name="LiveEditOptions" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>
