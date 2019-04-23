@@ -5,6 +5,7 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="Groovy" value="true" />
         <entry key="JAVA" value="true" />
       </map>
     </option>
