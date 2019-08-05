@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="-cde9636:16c6167fdd5:-8000" />
+    <option name="version" value="4.2.2" />
+  </component>
+</application>
