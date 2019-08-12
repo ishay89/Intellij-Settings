@@ -13,15 +13,15 @@
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="ExternalJavaDoc" />
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="Gradle.RefreshDependencies">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
@@ -40,5 +40,4 @@
   </action>
   <action id="SurroundWithLiveTemplate" />
   <action id="XDebugger.EditWatch" />
-  <action id="XDebugger.SetValue" />
 </keymap>
