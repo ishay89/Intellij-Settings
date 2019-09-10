@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-cde9636:16c6167fdd5:-8000" />
+    <option name="version" value="4.4.6" />
+  </component>
+</application>

@@ -6,6 +6,12 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodotaJavaScriptSearch">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="CodotaLeanSearchCrossRefAction">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
