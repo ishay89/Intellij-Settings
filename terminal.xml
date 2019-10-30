@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myShellPath" value="&quot;cmd&quot; /k &quot;&quot;C:\cmder\vendor\init.bat&quot;&quot;" />
+    <option name="myShellPath" value="" />
   </component>
 </application>
