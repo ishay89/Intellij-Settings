@@ -1,49 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="Arrangement.Alias.Rule.Edit" />
-  <action id="Arrangement.Rule.Edit" />
-  <action id="CloseActiveTab" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
-  <action id="CodotaJavaScriptSearch">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
-  <action id="CodotaLeanSearchCrossRefAction">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="enter" />
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
-  <action id="Debugger.EditArrayFilter" />
-  <action id="Debugger.EditCustomField" />
-  <action id="ExternalJavaDoc" />
-  <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift f1" />
-    <keyboard-shortcut first-keystroke="shift f2" />
-  </action>
-  <action id="GotoTest">
-    <keyboard-shortcut first-keystroke="ctrl alt j" />
-  </action>
-  <action id="Gradle.RefreshDependencies">
-    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
-  </action>
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
-  </action>
-  <action id="Scala.ExpandImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
-  </action>
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="SurroundWithLiveTemplate" />
-  <action id="XDebugger.EditWatch" />
 </keymap>
